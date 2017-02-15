@@ -3,7 +3,7 @@
 Code templates and slides for ICPCCamp 2017, Feb 13, Beijing.
 
 ## Files
-`Black Box Linear Algebra.pptx` Slides (Chinese!)
+`Black Box Linear Algebra.pdf` Slides (Chinese!)
 
 `LinearRecurrence.cpp` Template for calculating nth term of a linear recurrence sequence
 
@@ -18,9 +18,9 @@ Code templates and slides for ICPCCamp 2017, Feb 13, Beijing.
 `MatrixMultiplication_Test.cpp` Application of previous two templates on http://codeforces.com/problemset/problem/222/E. No constant optimization. Fastest by Feb 15, 2017 due to O(n^3), you might want to make a template out of this code
 
 ## Bouns
-`How to AC it.pptx` Slides for ICPCCamp16 (Chinese)
+`How to AC it.pdf` Slides for ICPCCamp16 (Chinese)
 
-`Construction Problems.pptx` Slides for ICPCCamp15 (Chinese)
+`Construction Problems.pdf` Slides for ICPCCamp15 (Chinese)
 
 ===
 
