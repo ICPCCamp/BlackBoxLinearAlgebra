@@ -12,7 +12,7 @@ int inverse(int a) {
 	return a == 1 ? 1 : (long long)(MOD - MOD / a) * inverse(MOD % a) % MOD;
 }
 
-// Berkekamp-Massey Algorithm
+// Berlekamp-Massey Algorithm
 // Requirement: const MOD, inverse(int)
 // Input: vector<int> the first elements of the sequence
 // Output: vector<int> the recursive equation of the given sequence

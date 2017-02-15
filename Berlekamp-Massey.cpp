@@ -1,4 +1,4 @@
-// Berkekamp-Massey Algorithm
+// Berlekamp-Massey Algorithm
 // Complexity: O(n^2)
 // Requirement: const MOD, inverse(int)
 // Input: vector<int> - the first elements of the sequence
@@ -67,5 +67,6 @@ vector<int> solve(vector<int> a) {
 			}
 		}
 	}
+	//Caution: s.a might be shorter than expected
 	return s.a;
 }

@@ -15,6 +15,8 @@ Code templates and slides for ICPCCamp 2017, Feb 13, Beijing.
 
 `Berlekamp-Massey_Test.cpp` Template test
 
+`MatrixMultiplication_Test.cpp` Application of previous two templates on http://codeforces.com/problemset/problem/222/E. No constant optimization. Fastest by Feb 15, 2017 due to O(n^3), you might want to make a template out of this code
+
 ## Bouns
 `How to AC it.pptx` Slides for ICPCCamp16 (Chinese)
 
