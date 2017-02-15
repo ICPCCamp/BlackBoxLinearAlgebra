@@ -1,6 +1,6 @@
 # Black Box Linear Algebra
 
-Code template and slides for ICPCCamp 2017, Feb 13, Beijing.
+Code templates and slides for ICPCCamp 2017, Feb 13, Beijing.
 
 ===
 ## Files
