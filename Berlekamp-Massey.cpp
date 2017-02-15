@@ -1,7 +1,8 @@
 // Berkekamp-Massey Algorithm
+// Complexity: O(n^2)
 // Requirement: const MOD, inverse(int)
-// Input: vector<int> the first elements of the sequence
-// Output: vector<int> the recursive equation of the given sequence
+// Input: vector<int> - the first elements of the sequence
+// Output: vector<int> - the recursive equation of the given sequence
 // Example:  In: {1, 1, 2, 3}  Out: {1, 1000000006, 1000000006} (MOD = 1e9+7)
 
 struct Poly {
